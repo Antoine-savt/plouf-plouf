@@ -1,0 +1,5 @@
+{
+  "name": "Pouf Pouf",
+  "description": "Un outil pour tirer au sort un nom de manière aléatoire et ludique à partir d'une liste.",
+  "requestFramePermissions": []
+}
