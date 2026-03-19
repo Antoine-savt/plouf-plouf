@@ -6,11 +6,11 @@
       "https://storage.googleapis.com/portolio-fdeca.firebasestorage.app/Ploufplouf/antoine3_800x800.webp",
       "https://storage.googleapis.com/portolio-fdeca.firebasestorage.app/Ploufplouf/Antoine4_800x800.webp"
     ],
-    "weight": 0.8
+    "weight": 0.1
   },
   "Augustin SERMAGE": {
     "image": "https://storage.googleapis.com/portolio-fdeca.firebasestorage.app/Ploufplouf/Augustin_800x800.webp",
-    "weight": 1
+    "weight": 0.1
   },
   "Aurélien BARTHES": {
     "image": [
@@ -43,7 +43,7 @@
       "https://storage.googleapis.com/portolio-fdeca.firebasestorage.app/Ploufplouf/domitille4_800x800.webp",
       "https://storage.googleapis.com/portolio-fdeca.firebasestorage.app/Ploufplouf/Domitille5_800x800.webp"
     ],
-    "weight": 1
+    "weight": 0.2
   },
   "Edouard ZHONG": {
     "image": [
@@ -103,7 +103,7 @@
   },
   "Louis DE JAVEL DE VILLERSFARLAY": {
     "image": "https://storage.googleapis.com/portolio-fdeca.firebasestorage.app/Ploufplouf/Louis_800x800.webp",
-    "weight": 1
+    "weight": 0.1
   },
   "Lucas PERON": {
     "image": [
